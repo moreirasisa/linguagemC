@@ -1,0 +1,6 @@
+**/.vscode
+**/*.out
+*
+!**/.vscode/launch.json
+!/**/
+!*.c
